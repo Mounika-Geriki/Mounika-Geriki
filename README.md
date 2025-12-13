@@ -159,6 +159,12 @@
 
 </div>
 
+<h2 align="Left">🐍 My Contribution Graph</h2>
+
+<p align="Left">
+  <img src="https://raw.githubusercontent.com/Mounika-Geriki/Mounika-Geriki/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
 
 <!-- ===================== Connect ===================== -->
 
