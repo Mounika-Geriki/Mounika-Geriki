@@ -2,11 +2,16 @@
 
 <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hi, I'm Mounika Geriki </h1>
 
-<p>
+<!-- <p>
   <b>Data Science Graduate @ Stony Brook University (Dec 2025)</b> •
   <b>Graduate Research Assistant (LLMs & NLP)</b> •
   <b>Data Analyst | Data Scientist | ML Engineer | Cloud Analytics</b>
+</p> -->
+<!-- 🔥 Single-line animated typing -->
+<p align="Left">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=14B8A6&Left=true&vleft=true&width=1000&lines=MS+Data+Science+%40+Stony+Brook+University+%7C+Data+Analyst+%7C+AI+%26+ML+%7C+Ex-TCS">
 </p>
+
 
 <p>
   I build <b>scalable data pipelines</b>, <b>LLM/NLP applications</b>, and <b>decision-ready dashboards</b> —
@@ -113,57 +118,54 @@
 
 <br/>
 
-<!-- ===================== Tech Stack ===================== -->
+<h2 align="left">🧰 Tech Stack</h2>
 
-<h2 align="Left">🧰 Tech Stack</h2>
-
-<div align="Left">
-
-<!-- Languages -->
+<!-- ================= Data Analytics & BI ================= -->
+<h3 align="left">📊 Data Analytics & BI</h3>
 <p>
-  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-Analytics-lightgrey?logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-Stats-276DC3?logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-CSS-E34F26?logo=html5&logoColor=white"/>
-</p>
-
-<!-- Data Engineering -->
-<p>
-  <img src="https://img.shields.io/badge/ETL-Pipelines-orange"/>
-  <img src="https://img.shields.io/badge/PySpark-Distributed-orange"/>
-  <img src="https://img.shields.io/badge/Snowflake-Data%20Warehouse-29B5E8?logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20%7C%20SOAP-APIs-lightgrey"/>
-</p>
-
-<!-- ML / LLM -->
-<p>
-  <img src="https://img.shields.io/badge/ML-Scikit--learn%20%7C%20TensorFlow-green"/>
-  <img src="https://img.shields.io/badge/LLMs-BERT%20%7C%20RAG%20%7C%20LoRA-purple"/>
-  <img src="https://img.shields.io/badge/LightGBM-Models-brightgreen"/>
-</p>
-
-<!-- Cloud -->
-<p>
-  <img src="https://img.shields.io/badge/GCP-BigQuery%20%7C%20Composer%20%7C%20VertexAI-4285F4?logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-Data%20Pipelines-232F3E?logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-OS-black?logo=linux"/>
-</p>
-
-<!-- Visualization -->
-<p>
-  <img src="https://img.shields.io/badge/Tableau-Dashboards-blue?logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Analytics-4B5563?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-Dashboards-1F77B4?logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-Visualization-F2C811?logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Looker%20Studio-Reporting-1A73E8"/>
+  <img src="https://img.shields.io/badge/Excel-Analytics-217346?logo=microsoft-excel&logoColor=white"/>
 </p>
 
-</div>
-
-<h2 align="Left">🐍 My Contribution Graph</h2>
-
-<p align="Left">
-  <img src="https://raw.githubusercontent.com/Mounika-Geriki/Mounika-Geriki/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<!-- ================= Data Engineering & Cloud ================= -->
+<h3 align="left">⚙️ Data Engineering & Cloud</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-Data%20Pipelines-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL-Pipelines-F97316"/>
+  <img src="https://img.shields.io/badge/PySpark-Distributed-F97316"/>
+  <img src="https://img.shields.io/badge/Snowflake-Data%20Warehouse-29B5E8?logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-BigQuery%20%7C%20Composer%20%7C%20VertexAI-4285F4?logo=googlecloud&logoColor=white"/>
 </p>
+
+<!-- ================= AI / ML / GenAI ================= -->
+<h3 align="left">🤖 AI / ML / GenAI</h3>
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-ML-F7931E"/>
+  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LightGBM-Models-22C55E"/>
+  <img src="https://img.shields.io/badge/LLMs-BERT%20%7C%20RAG%20%7C%20LoRA-9333EA"/>
+</p>
+
+<!-- ================= Software Engineering & DevOps ================= -->
+<h3 align="left">💻 Software Engineering & DevOps</h3>
+<p>
+  <img src="https://img.shields.io/badge/Java-Backend-ED8B00?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-Systems-00599C?logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-OS-000000?logo=linux&logoColor=white"/>
+</p>
+
+
+
+
+
+
+
+
 
 
 <!-- ===================== Connect ===================== -->
