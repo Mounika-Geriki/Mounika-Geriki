@@ -6,22 +6,23 @@
 </h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=14B8A6&width=1000&lines=Data+Scientist+%7C+ML+Engineer+%7C+LLMs+%7C+GenAI+%7C+4%2B+Years+Experience;Building+AI+Systems+at+Scale+%7C+RAG+%7C+Fraud+Detection+%7C+Cloud+ML">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=14B8A6&width=1000&lines=AI+Software+Engineer+%7C+Agentic+AI+%7C+LLMs+%7C+RAG;Building+Production-Ready+AI+Applications+and+Backend+Systems">
 </p>
 
 <p>
-  I’m a <b>Data Scientist / Machine Learning Engineer</b> with <b>4+ years of experience</b> building
-  <b>production-grade AI systems</b>, <b>LLM applications</b>, and <b>scalable data pipelines</b>.
-  
-  I specialize in <b>predictive modeling, large-scale ML systems, and Generative AI</b> — delivering
-  measurable impact across fraud detection, analytics, and intelligent decision systems.
+  I’m an <b>AI Software Engineer</b> with <b>4+ years of experience</b> building
+  <b>AI-powered applications, LLM systems, and scalable backend services</b>.
+</p>
+
+<p>
+  My work focuses on <b>Agentic AI, RAG, AI agents, machine learning, APIs, and cloud-based AI solutions</b>.
 </p>
 
 <p>
   <a href="https://www.linkedin.com/in/mounika-geriki23/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:germounika3@gmail.com">
+  <a href="mailto:geriki.mounika.2305@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
   <a href="https://mounika-geriki.github.io/">
@@ -35,79 +36,62 @@
 
 ## 🚀 What I Do
 
-### 🤖 AI / ML Systems
-- Built **fraud detection & anomaly detection models** using XGBoost, Deep Learning  
-- Achieved **94%+ model accuracy** and improved business KPIs significantly  
-- Designed **end-to-end ML pipelines** from data ingestion → training → deployment  
+### 🧠 Agentic AI & LLM Applications
 
-### 🧠 LLMs & Generative AI
-- Built **RAG pipelines (LangChain, FAISS, Pinecone)** for enterprise data querying  
-- Fine-tuned LLMs (**LLaMA, Falcon, GPT-NeoX**) using **LoRA / PEFT**  
-- Developed **AI copilots & agent systems** for decision support  
+* Build AI agents using **LangChain, LangGraph, MCP, and tool calling**
+* Develop **RAG pipelines** with FAISS, vector databases, and knowledge graphs
+* Add guardrails, evaluation, and observability to production AI systems
 
-### ⚙️ Scalable Data & ML Infrastructure
-- Processed **10M+ transactions/day** using Kafka, PySpark, AWS pipelines  
-- Built **real-time inference systems** with sub-second latency  
-- Implemented **MLOps pipelines** (MLflow, Docker, CI/CD, monitoring)  
+### ⚙️ Backend & Cloud Engineering
 
----
-
-## 🏆 Key Impact
-
-| ⭐ Area | 💬 Impact |
-|------|----------|
-| 💳 Fraud Detection | Improved detection recall by 20%+ with ML + deep learning |
-| ⚡ Real-Time Systems | Built pipelines processing 10M+ transactions/day |
-| 🤖 LLM Applications | Developed RAG + AI copilots for enterprise analytics |
-| 📊 Business Impact | Reduced false positives by 28% & improved efficiency by 40% |
+* Build scalable services using **Python, FastAPI, Flask, and REST APIs**
+* Deploy applications using **Docker, Kubernetes, and CI/CD**
+* Work across **AWS, Azure, and Google Cloud Platform**
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 InsightPilot – Agentic Analytics Platform
-- SQL + LLM system converting natural language → insights  
-- Multi-step reasoning + automated KPI generation  
 
-### 🔹 TravelWise – RAG AI Assistant
-- Adaptive retrieval + real-time knowledge integration  
-- High accuracy with optimized latency  
+* Converts natural-language questions into validated SQL queries
+* Generates business insights using LLMs and semantic retrieval
 
-### 🔹 Fraud Detection Platform (Industry)
-- ML + DL models for transaction scoring & anomaly detection  
-- Graph-based + behavioral modeling  
+### 🔹 TravelWise – Agentic RAG Assistant
+
+* Provides context-aware travel recommendations using RAG
+* Built with LangChain, FAISS, Flask, and GCP
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 👨‍💻 Languages
-Python | SQL | Java | C++ | R | Scala
 
-### 🤖 AI / ML
-TensorFlow | PyTorch | XGBoost | LightGBM | Scikit-learn  
-Transformers | BERT | GPT | CNN | NLP | Computer Vision  
+Python | SQL | Java | C++ | C#
 
-### 🧠 LLM & GenAI
-LangChain | RAG | FAISS | Pinecone | LoRA | PEFT  
-OpenAI | Gemini | AutoGen | LangGraph  
+### 🧠 AI & GenAI
 
-### ☁️ Cloud & Big Data
-AWS (SageMaker, S3, Lambda)  
-GCP (BigQuery, Vertex AI)  
-Spark | Kafka | Hadoop | Databricks  
+LLMs | Agentic AI | RAG | LangChain | LangGraph | Hugging Face
+OpenAI | MCP | Knowledge Graphs | FAISS | Vector Databases
 
-### ⚙️ MLOps
-MLflow | Docker | Kubernetes | CI/CD | Model Monitoring  
+### ⚙️ Backend & MLOps
+
+FastAPI | Flask | REST APIs | Docker | Kubernetes | MLflow | CI/CD
+
+### ☁️ Cloud & Data
+
+AWS | Azure | GCP | Apache Spark | PostgreSQL | MySQL
 
 ---
 
 ## 🤝 Let's Connect
 
-I’m actively looking for opportunities in:
-👉 Data Science  
-👉 Machine Learning Engineering  
-👉 Applied AI / GenAI  
+I’m currently exploring opportunities in:
+
+👉 AI Software Engineering
+👉 Machine Learning Engineering
+👉 Applied AI / Generative AI
 
 <p>
   <a href="https://www.linkedin.com/in/mounika-geriki23/">
@@ -117,4 +101,14 @@ I’m actively looking for opportunities in:
 
 ---
 
-<i>“I build AI systems that scale — from data to decisions.”</i>
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mounika-Geriki/Mounika-Geriki/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mounika-Geriki/Mounika-Geriki/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Mounika-Geriki/Mounika-Geriki/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<i>“I build intelligent systems that connect AI, data, and real-world applications.”</i>
